@@ -12,6 +12,7 @@ SHIH-HSUEH LEE (vxp299)
 1. Exam project
 
 *All code can be run with a standard Anaconda Distribution for Python 3.13.*
+DATA PROJECT
 Our data project is an investigation of inflation dynamics in Denmark.
 This project explores how consumer prices have evolved before, during, and after the COVID-19 pandemic. It analyzes the Consumer Price Index (CPI) and its components, focusing on headline, core, and disaggregated inflation measures. The analysis examines monthly and annual inflation trends, as well as international comparisons with other economies such as the United States and China.
 
