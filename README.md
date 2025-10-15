@@ -1,9 +1,9 @@
-# [Group name]
+# Supersonic
 
 **Group members:**
-- A
-- B
-- C
+Tamanna Shabnam (vfc208)
+Jie Zhou (zlh638)
+SHIH-HSUEH LEE (vxp299)
 
 **This repository contains:***
 
